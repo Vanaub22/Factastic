@@ -1,8 +1,3 @@
-## Factastic - A Fun Fact Sharing Application
-
-Factastic is a dynamic fact-sharing application where users can share, upvote, confirm sources, downvote, and like facts. The app is built with React.js, HTML5, CSS3, and Supabase. 
-
-
 # Factastic - Fact-Sharing App
 
 Factastic is a dynamic fact-sharing application where users can share, upvote, confirm sources, downvote, and like facts. The app is built with React.js, HTML5, CSS3, and Supabase.
